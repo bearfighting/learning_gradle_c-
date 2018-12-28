@@ -1,0 +1,6 @@
+See file:///Users/xingwenfeng/Desktop/workingplace/learning_gradle_c-/build/tmp/compileMainExecutableMainCpp/output.txt for all output for compileMainExecutableMainCpp.
+compiling greeting.h successful.
+
+compiling main.cpp successful.
+
+Finished compileMainExecutableMainCpp, see full log file:///Users/xingwenfeng/Desktop/workingplace/learning_gradle_c-/build/tmp/compileMainExecutableMainCpp/output.txt.

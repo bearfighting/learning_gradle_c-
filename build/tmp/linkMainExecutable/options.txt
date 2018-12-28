@@ -1,0 +1,5 @@
+-o
+/Users/xingwenfeng/Desktop/workingplace/learning_gradle_c-/build/exe/main/main
+/Users/xingwenfeng/Desktop/workingplace/learning_gradle_c-/build/objs/main/mainCpp/5v08dtn7cszvzrlgdayn1y9u6/main.o
+/Users/xingwenfeng/Desktop/workingplace/learning_gradle_c-/build/objs/main/mainCpp/4gr9b0al92vc0a65wu3efj86s/greeting.o
+-m64
